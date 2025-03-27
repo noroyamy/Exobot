@@ -1,0 +1,17 @@
+{
+    "admins": [
+        1376242458,
+        634604815
+    ],
+    "pairs": {
+        "BTC/USDT": 65000,
+        "ETH/USDT": 3500,
+        "BTC/TRX": 0,
+        "BTC/SOL": 67000.0,
+        "STX/WTX": 48505.0
+    },
+    "exchange_requests": [],
+    "exchange_rates": {},
+    "wallet_addresses": {},
+    "cashout_requests": []
+}
