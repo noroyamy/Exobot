@@ -4,7 +4,7 @@ import json
 import os
 
 # 🔐 Токен бота
-TOKEN = "7007657819:AAG_MQBx2YQNDpCi6zJ_5UIqtVewnSE4jbg"
+TOKEN = "8132157647:AAEKgebdk_Q86DZdbPFncwYqhj7YHmrKj20"
 
 # 📂 Файл для хранения данных
 DATA_FILE = "data.json"
